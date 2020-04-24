@@ -5,7 +5,7 @@ import time
 
 timeframe = '2019-09'
 sql_transaction = []
-start_row = 120000000
+start_row = 0
 cleanup = 20000000
 
 connection = sqlite3.connect('2019-07.db')
