@@ -1,3 +1,6 @@
+#Creates training files from a SQL datbase of comment, reply
+
+
 import sqlite3
 import pandas as pd
 
